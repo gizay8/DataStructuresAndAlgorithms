@@ -1,2 +1,2 @@
 # DataStructuresAndAlgorithms
-[Patika.dev](https://www.patika.dev) sitesindeki [Java ile Backend Web Development Patikası/ Veri Yapıları ve Algoritmalar](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar) modülünde bulunan ödevleri yaptığım repo.
+The repo where I do the assignments from module [Backend Web Development Path with Java/ Data Structures and Algorithms]([https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar](https://academy.patika.dev/courses/veri-yapilari-ve-algoritmalar)https://academy.patika.dev/courses/veri-yapilari-ve-algoritmalar) on [Patika.dev](https://www.patika.dev).
